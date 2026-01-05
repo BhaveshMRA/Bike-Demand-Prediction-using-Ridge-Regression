@@ -38,6 +38,7 @@ The model is optimized using **Mini-Batch Gradient Descent (MBGD)** and evaluate
 
 ## 📂 Project Structure
   ├── ridge_regression_mbgd.py
+  
   ├── README.md
 
 ---
