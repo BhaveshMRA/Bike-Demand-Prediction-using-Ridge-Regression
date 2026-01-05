@@ -92,8 +92,4 @@ pip install numpy pandas scikit-learn
 python ridge_regression_mbgd.py
 
 
----
 
-## Author
-
-Bhavesh Bholanath Maurya
